@@ -4,7 +4,7 @@
 
 <html>
 <head>
-<title>Model2 MVC Shop</title>
+<title>Model2 MVC Shop : new/dev top.jsp 수정보완</title>
 
 <link href="/css/left.css" rel="stylesheet" type="text/css">
 
